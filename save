@@ -68,3 +68,6 @@ if streamlit.button('Add a Fruit to the List'):
   streamlit.text(back_from_function)
   
 #streamlit.stop()
+
+# requirements.txt
+snowflake-connector-python
